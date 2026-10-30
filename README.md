@@ -18,5 +18,5 @@ ROBOTiX Club, National Institute of Technology (NIT) Raipur
 Vision
 To promote innovation, problem-solving, and technical excellence by creating opportunities for students to engage with robotics, AI, and emerging technologies.
 
-One-line Tagline
-Where Robotics, AI, and Innovation collide with the Unknown
+One-line Tagline: 
+  Where Robotics, AI, and Innovation collide with the Unknown
