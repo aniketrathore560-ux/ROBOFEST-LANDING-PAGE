@@ -1,0 +1,6 @@
+{
+  "name": "ROBOFEST - NIT Raipur Robotics Festival",
+  "description": "Responsive landing page for ROBOFEST, a premier robotics and innovation festival hosted by ROBOTiX Club, NIT Raipur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
